@@ -1,0 +1,10 @@
+a. 75
+b. 75
+c. They do (0.96).
+d. They do (1.00, 0.94, 0.94).
+e. They do (1.00, 0.94, 0.94).
+f. They do (1.00, 0.94, 0.94).
+
+e (my own analysis).  I suspect that for anyone who could figure out how to modify the code to do 1 fold validation some of the numbers might have been off slightly, 
+and I suspect this because the number of samples would have been reduced and so the numbers would not have been so round (and programs have a problem with rounding 
+sometimes).

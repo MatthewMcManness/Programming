@@ -1,0 +1,13 @@
+label{
+    width: 120px;
+    display: inline-block;
+    /* display: none; */
+}
+
+.notes {
+    margin: 20px;
+    padding: 10px;
+    width: 93%;
+    height: 128px;
+    resize: none;
+}
